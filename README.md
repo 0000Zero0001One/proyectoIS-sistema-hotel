@@ -3,12 +3,19 @@ Sistema de Gestión Hotelera web para hotel de sal en el Salar de Uyuni – Proy
 
 PROYECTO
 ANÁLISIS, DISEÑO E IMPLEMENTACIÓN DE UN SISTEMA DE GESTION HOTELERA
+
 DOCENTE:		Ph.D. José María Tapia Baltazar
+
 MATERIA: 		SIS-246 Ingeniería de Sistemas
-ESTUDIANTES:	Univ. Quispe Mamani Gabriela
-              Univ. Loayza Gutierrez Ruddy Micael
-              Univ. Larico Mamani Jhonathan
-              Univ. Conde Gutierrez Rafael Blas
+
+ESTUDIANTES:	
+Univ. Quispe Mamani Gabriela
+              
+Univ. Loayza Gutierrez Ruddy Micael
+
+Univ. Larico Mamani Jhonathan
+            
+Univ. Conde Gutierrez Rafael Blas
 <img width="1920" height="1080" alt="Screenshot 2025-11-20 081336" src="https://github.com/user-attachments/assets/c1ca6ada-335f-43ad-9530-4c633f13fe40" />
 <img width="1920" height="1080" alt="Screenshot 2025-11-20 081548" src="https://github.com/user-attachments/assets/4a8266f0-4a94-49cb-b02b-1f24a8d8c9af" />
 <img width="1920" height="1080" alt="Screenshot 2025-11-20 081425" src="https://github.com/user-attachments/assets/d0c20cb4-f20b-4d86-9dc9-ceadfda0a6e5" />
